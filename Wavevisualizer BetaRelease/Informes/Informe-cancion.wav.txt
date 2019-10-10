@@ -1,0 +1,6 @@
+Nombre:cancion.wav 
+Total Samples:176400 
+Sample Rate:44100 
+Timer Period:0.05 
+Energía:0.10222 Julios 
+Potencia Media:1.4487e-07Watios 
